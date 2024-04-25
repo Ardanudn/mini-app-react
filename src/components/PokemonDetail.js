@@ -22,6 +22,7 @@ function PokemonDetail({ data }) {
           Hitpoints: {data.hitpoints}
         </Typography.Text>
       </Space>
+      <span>Ardanudn</span>
     </div>
   );
 }
